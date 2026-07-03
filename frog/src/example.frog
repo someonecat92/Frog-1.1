@@ -1,0 +1,9 @@
+class Example {
+  description = ["Это образец"]
+  charset = ["UTF-8"]
+  frog-version = ["1.0"]
+  println = ["Это образец", 2+2]
+  import = ["class.frog"]
+  calc = ["result", 2+2]
+  return = value["1000"]
+}
